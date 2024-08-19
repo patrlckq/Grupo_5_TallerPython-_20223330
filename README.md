@@ -1,4 +1,4 @@
-# Grupo_5_TallerPython-_20223330
+# Grupo_5_TallerPython_20223330
 
 En este repositorio encontraras mis tareas del taller introductorio a python para economía y finanzas dictado por el Q-Lab
 ## Tareas 📚
